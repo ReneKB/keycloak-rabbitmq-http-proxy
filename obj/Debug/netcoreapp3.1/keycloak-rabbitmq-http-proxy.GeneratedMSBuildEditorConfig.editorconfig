@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = keycloak_rabbitmq_http_proxy
+build_property.ProjectDir = C:\Users\rkuchenbuch\source\repos\stim-ssi\Misc\keycloak-rabbitmq-http-proxy\appsettings\
